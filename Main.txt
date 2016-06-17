@@ -1,3 +1,3 @@
 Hallo, Welt
 
-PastaPizza ipsum dolor sit amet
+Döner ipsum dolor sit amet
